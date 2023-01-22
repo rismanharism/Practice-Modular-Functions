@@ -1,0 +1,2 @@
+- hint tidak perlu dikerjakan karena berfungsi untuk memberikan kalian bantuan/ide dalam menjawab latihan
+- Pastikan hint baru dilihat setelah berusaha menjawab latihan
